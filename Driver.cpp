@@ -12,7 +12,6 @@ int main()
  Taxi cab(3.3); //uses taxi constructor to set fuel level to 3.3 
  Truck mack(7.54); //uses truck constructor and sets fuel level to 7.54
  mack.setCargo(1); //sets cargo to bool value 1 
- hierarchy */
  cout << "Vehicle" << "\n";
  cout << car; //prints out the car information 
  cout << " " << "\n";
